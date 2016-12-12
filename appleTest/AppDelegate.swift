@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  appleTest
-//
-//  Created by Gödecke, Maik on 12/12/16.
-//  Copyright © 2016 moimoi. All rights reserved.
-//
+// https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson2.html#//apple_ref/doc/uid/TP40015214-CH5-SW1
 
 import UIKit
 
