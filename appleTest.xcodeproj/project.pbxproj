@@ -47,6 +47,7 @@
 		1A55AA611DFECFB700CC5F3B /* appleTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = appleTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A55AA651DFECFB700CC5F3B /* appleTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = appleTestUITests.swift; sourceTree = "<group>"; };
 		1A55AA671DFECFB700CC5F3B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A55AA731DFECFC400CC5F3B /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				1A55AA4C1DFECFB600CC5F3B /* Assets.xcassets */,
 				1A55AA4E1DFECFB600CC5F3B /* LaunchScreen.storyboard */,
 				1A55AA511DFECFB600CC5F3B /* Info.plist */,
+				1A55AA731DFECFC400CC5F3B /* MyPlayground.playground */,
 			);
 			path = appleTest;
 			sourceTree = "<group>";
